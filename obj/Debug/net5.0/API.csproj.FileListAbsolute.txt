@@ -1,0 +1,9 @@
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.RazorAssemblyInfo.cache
+C:\dev\teste-pratico-apresentacao\API\obj\Debug\net5.0\API.RazorAssemblyInfo.cs
