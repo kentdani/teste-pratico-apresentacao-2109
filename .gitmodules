@@ -1,0 +1,9 @@
+[submodule "Site"]
+	path = Site
+	url = https://github.com/kentdani/Site
+[submodule "Enumeradores"]
+	path = Enumeradores
+	url = https://github.com/kentdani/Enumeradores
+[submodule "Models"]
+	path = Models
+	url = https://github.com/kentdani/Models
